@@ -262,6 +262,9 @@ img.profile{
 }
 
 /*************************contact me*************/
+.row-formulario{
+	padding: 10px 0;
+}
 input{
 	width: 70%;
 	margin: 0 auto; 
@@ -310,6 +313,14 @@ input::-webkit-input-placeholder {
 }
 
 /******************************footer*************/
+.row-footer{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+.row-footer div{
+	width: 30%;
+}
 footer{
 	background-color: #2C3E50;
 	color: whitesmoke;
