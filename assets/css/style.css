@@ -159,7 +159,7 @@ img.profile{
 	transition: .5s ease;
 	background-color: #18BC9C;
 	padding: 12px;
-	border: 12px solid whitesmoke;
+	
 }
 
 .grid:hover .overlay {
