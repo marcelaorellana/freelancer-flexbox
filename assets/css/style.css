@@ -262,6 +262,11 @@ img.profile{
 }
 
 /*************************contact me*************/
+.btn-formulario{
+	text-align: left;
+	width: 70%;
+	margin: 0 auto;
+}
 .row-formulario{
 	padding: 10px 0;
 }
